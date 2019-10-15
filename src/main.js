@@ -25,8 +25,8 @@ Vue.use(VueI18n);
 
 // Vue.prototype.host = "https://www.chulian.top"; //测试
 // Vue.prototype.host = "https://www.bhuo.top"; //生产
-// Vue.prototype.host = "http://47.74.216.147"; //新加坡
-Vue.prototype.host = "http://39.104.119.155"; //测试
+
+Vue.prototype.host = "http://61.164.144.235"; //测试
 
 
 Vue.prototype.api = Api;

@@ -1,6 +1,4 @@
-# ZTuoExchange_web
 
-> ZTuo开源数字资产交易所之web端
 
 ## Install Prerequisites
 The following dependencies are required to run an instance:

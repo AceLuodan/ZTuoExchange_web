@@ -200,7 +200,7 @@ export default {
         case "nav-exchange":
           break;
         default:
-          window.document.title = "ZTuo国际数字加密资产交易平台";
+          window.document.title = "数字加密资产交易平台";
           break;
       }
     },
